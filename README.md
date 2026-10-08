@@ -7,9 +7,11 @@ O projeto permite acompanhar entradas e saídas, evolução do saldo, margem e d
 
 ## 📸 Dashboard
 
-![Dashboard Fluxo de Caixa - Visão Geral](./images/dashboard-fluxo-caixa-1.png)
+<img width="1441" height="804" alt="dashboard-fluxo-caixa-1" src="https://github.com/user-attachments/assets/1ae84bc9-db4f-4b8b-b32a-163c73853e2f" />
+<img width="1436" height="804" alt="dashboard-fluxo-caixa-2" src="https://github.com/user-attachments/assets/5f5e3c3e-9a93-483e-a239-e8bbb49427a6" />
 
-![Dashboard Fluxo de Caixa - Análise Financeira](./images/dashboard-fluxo-caixa-2.png)
+
+
 
 ---
 
